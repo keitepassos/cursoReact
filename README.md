@@ -18,8 +18,3 @@ iniciar o package.json
 >yarn build
 
 >yarn dev
-##### em package.json webpack-dev-server --mode development, trocar dev por start
->yarn start
-
-
-
