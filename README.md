@@ -1,6 +1,7 @@
 # cursoReact
-
+criar node_module
 iniciar o package.json
+
 >npm install -g yarn
 >yarn init -y 
 
