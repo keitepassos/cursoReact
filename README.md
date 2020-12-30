@@ -1,8 +1,5 @@
 # cursoReact
 
-Electron + react
-
-....
 iniciar o package.json
 >npm install -g yarn
 >yarn init -y 
